@@ -1,1 +1,3 @@
 # NerdLauncher
+
+实现一个简单的Launcher，布局采用RecycleView，通过PackageManager 解析隐式intent获取application，ActivityInfo获取packagename和classname启动application。
